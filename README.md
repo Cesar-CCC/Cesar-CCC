@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%22Por+fin+he+entendido+lo+que+significa+'upward+compatible'+(compatible+hacia+arriba).+Significa+que+mantenemos+todos+nuestros+viejos+errores%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=40&duration=3000&pause=1000&color=3AFBFF&background=3775FF00&center=true&vCenter=true&width=1000&lines=%22Iterar+es+humano%2C+'recursivar'+es+divino%22;--+L.+Peter+Deutsch)](https://git.io/typing-svg)
