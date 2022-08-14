@@ -1,1 +1,1 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%22Por+fin+he+entendido+lo+que+significa+'upward+compatible'+(compatible+hacia+arriba).+Significa+que+mantenemos+todos+nuestros+viejos+errores%22)](https://git.io/typing-svg)
