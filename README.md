@@ -1,1 +1,1 @@
-![Screenshot_20220530-022534](https://user-images.githubusercontent.com/79866006/170902054-b0bdc0cf-d257-425a-981c-1a0219be7b6c.jpg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
