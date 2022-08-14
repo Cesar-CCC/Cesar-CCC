@@ -21,13 +21,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 </div>
 
-<h1 align="center">
-📊 My Github Stats 📊
-</h1>
- 
-<p align="center">
-<a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api?username=The-Young-Programmer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a> </p>
-<p align="center">
-<a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Young-Programmer&layout=compact&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a></p>
-<p align="center">
-<a href="#"/><img alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Young-Programmer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a></p>
+<br/>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
