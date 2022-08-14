@@ -16,6 +16,6 @@
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></a>
-<a href="#"><img src="imgs/cplusplus.png" width="40"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" />
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40"/></a>
 
