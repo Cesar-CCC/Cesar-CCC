@@ -9,7 +9,7 @@
   L. Peter Deutsch
 </h4>
 <h2 align="center">
-  👨💻 Languages | Tools | Experience  👨
+  👨💻 | Languages |  👨
  </h2>
  
 <div align="center">
