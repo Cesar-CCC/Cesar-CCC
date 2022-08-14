@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=25&duration=3000&pause=2000&color=3AFBFF&background=3775FF00&center=true&vCenter=true&width=1000&lines=%22Iterar+es+humano%2C+'recursivar'+es+divino%22+--+L.+Peter+Deutsch)](https://git.io/typing-svg)
+<h2 align="center">
+  L. Peter Deutsch
+</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=30&duration=3000&pause=3000&color=3AFBFF&background=3775FF00&center=true&vCenter=true&width=1000&lines=%22Iterar+es+humano%2C+'recursivar'+es+divino%22;To+iterate+is+human%2C+to+recurse+divine.)](https://git.io/typing-svg)
 
 <br />
 
