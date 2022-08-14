@@ -20,3 +20,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 </div>
+
+<h1 align="center">
+📊 My Github Stats 📊
+</h1>
+ 
+<p align="center">
+<a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api?username=The-Young-Programmer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a> </p>
+<p align="center">
+<a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Young-Programmer&layout=compact&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a></p>
+<p align="center">
+<a href="#"/><img alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Young-Programmer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a></p>
