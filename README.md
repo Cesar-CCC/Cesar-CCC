@@ -19,9 +19,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-</div>
 
 <br/>
 
+<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47xyi04atzjshn4botrz42dten797906o2pbzfn04v&rid=giphy.gif&ct=g" width="400"/>
 
-<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47xyi04atzjshn4botrz42dten797906o2pbzfn04v&rid=giphy.gif&ct=g" width="40"/>
+
+</div>
