@@ -24,4 +24,4 @@
 <br/>
 
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47xyi04atzjshn4botrz42dten797906o2pbzfn04v&rid=giphy.gif&ct=g" width="40"/>
